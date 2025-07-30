@@ -15,8 +15,8 @@ xx
 - X
 
 ## Outils utilisés
-SQL Power Architect
-SQLiteStudio
+SQL Power Architect  
+SQLiteStudio  
 
 ## 
 >Attention ! : Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l'organisme OpenClassrooms.
