@@ -5,14 +5,14 @@
 xx
 
 ## Soft Skills
-- X
-- X
-- X
+- Garantir la qualité et la cohérence des données  
+- Compréhension des enjeux business et capacité à y répondre via la data  
+- Traduction d'un besoin non technique en requête SQL  
 
 ## Compétences
-- X
-- X
-- X
+- Chargement des données dans une base de données  
+- Rédaction de scripts simples en SQL pour aider le business à prendre des décisions  
+- Création du schéma d'une base de données 
 
 ## Outils utilisés
 SQL Power Architect  
