@@ -2,7 +2,11 @@
 
 ## Contexte et objectifs
 
-xx
+Mon rôle ici a été de décrire une méthodologie de création de base de données immobilière avec SQL:  
+- Dictionnaire des données  
+- Schéma relationnel  
+- Base de données  
+- Requêtes SQL avec les résultats.  
 
 ## Soft Skills
 - Garantir la qualité et la cohérence des données  
