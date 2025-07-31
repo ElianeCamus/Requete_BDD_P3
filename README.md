@@ -6,7 +6,18 @@ Mon rôle ici a été de décrire une méthodologie de création de base de donn
 - Dictionnaire des données  
 - Schéma relationnel  
 - Base de données  
-- Requêtes SQL avec les résultats.  
+- Requêtes SQL avec les résultats.
+
+Ci-dessous des exemples de requêtes :  
+- Quels sont les 5 contrats qui ont les surfaces les plus élevées ?  
+- Quel est le prix moyen de la cotisation mensuelle ?  
+- Quel est le nombre de contrats pour chaque catégorie de prix de la valeur déclarée des biens ?  
+- Quel est le nombre de formules “integral” sur la région Pays de la Loire ?  
+- Liste des numéros de contrats avec le type de contrat et leur formule pour les maisons du département 71.  
+- Quelle est la surface moyenne des contrats à Paris ?  
+- Classement des 10 départements où le prix moyen de la cotisation est le plus élevé.  
+- Liste des communes ayant eu au moins 150 contrats.  
+- Quel est le nombre de contrats pour chaque région ?  
 
 ## Soft Skills
 - Garantir la qualité et la cohérence des données  
